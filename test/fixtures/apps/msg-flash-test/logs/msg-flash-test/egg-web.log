@@ -1,14 +1,14 @@
-2019-02-16 22:51:27,895 INFO 17199 [egg:logger] init all loggers with options: {"dir":"/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/test/fixtures/apps/msg-flash-test/logs/msg-flash-test","encoding":"utf8","env":"unittest","level":"INFO","consoleLevel":"WARN","disableConsoleAfterReady":false,"outputJSON":false,"buffer":false,"appLogName":"msg-flash-test-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
-2019-02-16 22:51:27,902 INFO 17199 [egg-multipart] stream mode enable
-2019-02-16 22:51:28,426 INFO 17199 [egg-static] starting static serve /public/ -> /Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/test/fixtures/apps/msg-flash-test/app/public
-2019-02-16 22:51:28,430 INFO 17199 [egg-security] use csrf middleware
-2019-02-16 22:51:28,431 INFO 17199 [egg-security] use methodnoallow middleware
-2019-02-16 22:51:28,432 INFO 17199 [egg-security] use noopen middleware
-2019-02-16 22:51:28,433 INFO 17199 [egg-security] use nosniff middleware
-2019-02-16 22:51:28,434 INFO 17199 [egg-security] use xssProtection middleware
-2019-02-16 22:51:28,434 INFO 17199 [egg-security] use xframe middleware
-2019-02-16 22:51:28,435 INFO 17199 [egg-security] use dta middleware
-2019-02-16 22:51:28,435 INFO 17199 [egg-security] compose 7 middlewares into one security middleware
-2019-02-16 22:51:28,451 INFO 17199 [egg:core] dump config after load, 2ms
-2019-02-16 22:51:28,494 INFO 17199 [egg-watcher:application] watcher start success
-2019-02-16 22:51:28,499 INFO 17199 [egg:core] dump config after ready, 5ms
+2019-02-16 23:39:03,523 INFO 20836 [egg:logger] init all loggers with options: {"dir":"/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/test/fixtures/apps/msg-flash-test/logs/msg-flash-test","encoding":"utf8","env":"unittest","level":"INFO","consoleLevel":"WARN","disableConsoleAfterReady":false,"outputJSON":false,"buffer":false,"appLogName":"msg-flash-test-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2019-02-16 23:39:03,528 INFO 20836 [egg-multipart] stream mode enable
+2019-02-16 23:39:03,986 INFO 20836 [egg-static] starting static serve /public/ -> /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/test/fixtures/apps/msg-flash-test/app/public
+2019-02-16 23:39:03,990 INFO 20836 [egg-security] use csrf middleware
+2019-02-16 23:39:03,991 INFO 20836 [egg-security] use methodnoallow middleware
+2019-02-16 23:39:03,992 INFO 20836 [egg-security] use noopen middleware
+2019-02-16 23:39:03,992 INFO 20836 [egg-security] use nosniff middleware
+2019-02-16 23:39:03,993 INFO 20836 [egg-security] use xssProtection middleware
+2019-02-16 23:39:03,994 INFO 20836 [egg-security] use xframe middleware
+2019-02-16 23:39:03,995 INFO 20836 [egg-security] use dta middleware
+2019-02-16 23:39:03,995 INFO 20836 [egg-security] compose 7 middlewares into one security middleware
+2019-02-16 23:39:04,010 INFO 20836 [egg:core] dump config after load, 4ms
+2019-02-16 23:39:04,018 INFO 20836 [egg-watcher:application] watcher start success
+2019-02-16 23:39:04,023 INFO 20836 [egg:core] dump config after ready, 5ms

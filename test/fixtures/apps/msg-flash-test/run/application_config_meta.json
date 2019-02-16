@@ -1,241 +1,241 @@
 {
-  "keys": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/test/fixtures/apps/msg-flash-test/config/config.default.js",
+  "keys": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/test/fixtures/apps/msg-flash-test/config/config.default.js",
   "flash": {
-    "enable": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/test/fixtures/apps/msg-flash-test/config/config.default.js",
-    "package": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/test/fixtures/apps/msg-flash-test/config/config.default.js",
-    "key": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/config/config.default.js"
+    "enable": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/test/fixtures/apps/msg-flash-test/config/config.default.js",
+    "package": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/test/fixtures/apps/msg-flash-test/config/config.default.js",
+    "key": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/config/config.default.js"
   },
   "session": {
-    "maxAge": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/test/fixtures/apps/msg-flash-test/node_modules/egg-session/config/config.default.js",
-    "key": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/test/fixtures/apps/msg-flash-test/node_modules/egg-session/config/config.default.js",
-    "httpOnly": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/test/fixtures/apps/msg-flash-test/node_modules/egg-session/config/config.default.js",
-    "encrypt": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/test/fixtures/apps/msg-flash-test/node_modules/egg-session/config/config.default.js"
+    "maxAge": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/test/fixtures/apps/msg-flash-test/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/test/fixtures/apps/msg-flash-test/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/test/fixtures/apps/msg-flash-test/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/test/fixtures/apps/msg-flash-test/node_modules/egg-session/config/config.default.js"
   },
   "security": {
-    "domainWhiteList": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js",
-    "protocolWhiteList": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js",
-    "defaultMiddleware": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js",
+    "domainWhiteList": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js",
     "csrf": {
-      "enable": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js",
-      "useSession": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js",
-      "ignoreJSON": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js",
-      "cookieName": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js",
-      "sessionName": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js",
-      "headerName": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js",
-      "bodyName": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js",
-      "queryName": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js"
     },
     "xframe": {
-      "enable": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js"
     },
     "hsts": {
-      "enable": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js",
-      "maxAge": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js",
-      "includeSubdomains": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js",
+      "maxAge": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js"
     },
     "dta": {
-      "enable": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js"
     },
     "methodnoallow": {
-      "enable": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js"
     },
     "noopen": {
-      "enable": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js"
     },
     "nosniff": {
-      "enable": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js"
     },
     "referrerPolicy": {
-      "enable": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js"
     },
     "xssProtection": {
-      "enable": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js"
     },
     "csp": {
-      "enable": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js",
-      "policy": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js",
-      "checkAddress": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js"
+      "ipBlackList": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js"
     }
   },
   "helper": {
-    "shtml": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/config.default.js"
+    "shtml": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js"
   },
   "jsonp": {
-    "limit": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-jsonp/config/config.default.js",
-    "callback": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-jsonp/config/config.default.js",
-    "csrf": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-jsonp/config/config.default.js"
+    "limit": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-jsonp/config/config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-onerror/config/config.default.js",
-    "appErrorFilter": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-onerror/config/config.default.js",
-    "templatePath": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-onerror/config/config.default.js"
+    "errorPageUrl": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-onerror/config/config.default.js"
   },
   "i18n": {
-    "defaultLocale": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-i18n/config/config.default.js",
-    "dirs": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-i18n/config/config.default.js",
-    "queryField": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-i18n/config/config.default.js",
-    "cookieField": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-i18n/config/config.default.js",
-    "cookieMaxAge": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-i18n/config/config.default.js"
+    "defaultLocale": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-i18n/config/config.default.js"
   },
   "watcher": {
-    "type": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-watcher/config/config.unittest.js",
+    "type": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-watcher/config/config.unittest.js",
     "eventSources": {
-      "default": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-watcher/config/config.default.js",
-      "development": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-watcher/config/config.default.js"
+      "default": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-watcher/config/config.default.js"
     }
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-schedule/config/config.default.js",
-      "file": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-schedule/config/config.default.js"
+      "consoleLevel": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-schedule/config/config.default.js"
     }
   },
   "schedule": {
-    "directory": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-schedule/config/config.default.js"
+    "directory": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-schedule/config/config.default.js"
   },
   "multipart": {
-    "mode": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
-    "autoFields": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
-    "defaultCharset": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
-    "fieldNameSize": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
-    "fieldSize": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
-    "fields": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
-    "fileSize": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
-    "files": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
-    "fileExtensions": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
-    "whitelist": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
-    "tmpdir": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
+    "mode": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
     "cleanSchedule": {
-      "cron": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-multipart/config/config.default.js"
+      "cron": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-multipart/config/config.default.js"
     }
   },
   "logrotator": {
-    "filesRotateByHour": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-logrotator/config/config.default.js",
-    "hourDelimiter": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-logrotator/config/config.default.js",
-    "filesRotateBySize": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-logrotator/config/config.default.js",
-    "maxFileSize": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-logrotator/config/config.default.js",
-    "maxFiles": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-logrotator/config/config.default.js",
-    "rotateDuration": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-logrotator/config/config.default.js",
-    "maxDays": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-logrotator/config/config.default.js"
+    "filesRotateByHour": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-logrotator/config/config.default.js"
   },
   "static": {
-    "prefix": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-static/config/config.default.js",
-    "dir": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-static/config/config.default.js",
-    "dynamic": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-static/config/config.default.js",
-    "preload": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-static/config/config.default.js",
-    "buffer": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-static/config/config.default.js",
-    "maxFiles": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-static/config/config.default.js"
+    "prefix": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-static/config/config.default.js"
   },
   "view": {
-    "root": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-view/config/config.default.js",
-    "cache": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-view/config/config.default.js",
-    "defaultExtension": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-view/config/config.default.js",
-    "defaultViewEngine": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-view/config/config.default.js",
-    "mapping": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-view/config/config.default.js"
+    "root": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-view/config/config.default.js",
+    "defaultExtension": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-view/config/config.default.js"
   },
-  "env": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-  "name": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-  "proxy": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-  "protocolHeaders": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-  "ipHeaders": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-  "hostHeaders": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
+  "env": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+  "name": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
   "pkg": {
-    "name": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "version": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
+    "name": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "version": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
     "dependencies": {
-      "egg-session": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js"
+      "egg-session": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js"
     }
   },
-  "baseDir": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-  "HOME": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-  "rundir": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
+  "baseDir": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
   "dump": {
-    "ignore": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js"
+    "ignore": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "notFound": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "sitefile": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "middlewares": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "httpClient": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js"
+    "bodyparser": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js"
   },
   "notfound": {
-    "pageUrl": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js"
+    "pageUrl": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js"
+    "/favicon.ico": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js"
   },
   "bodyParser": {
-    "enable": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "encoding": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "formLimit": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "jsonLimit": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "strict": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
+    "enable": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "strict": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
     "queryString": {
-      "arrayLimit": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-      "depth": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-      "parameterLimit": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js"
+      "arrayLimit": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+      "depth": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js"
     }
   },
   "logger": {
-    "dir": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "encoding": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "env": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "level": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "consoleLevel": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.unittest.js",
-    "disableConsoleAfterReady": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "outputJSON": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "buffer": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.unittest.js",
-    "appLogName": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "coreLogName": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "agentLogName": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "errorLogName": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "coreLogger": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "allowDebugAtProd": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js"
+    "dir": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "env": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "level": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.unittest.js",
+    "disableConsoleAfterReady": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.unittest.js",
+    "appLogName": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "coreLogger": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "allowDebugAtProd": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "dnsCacheLookupInterval": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "dnsCacheMaxLength": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
+    "enableDNSCache": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
     "request": {
-      "timeout": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js"
+      "timeout": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-      "freeSocketTimeout": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-      "maxSockets": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js"
+      "keepAlive": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-      "freeSocketTimeout": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-      "maxSockets": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js"
+      "keepAlive": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js"
     }
   },
   "meta": {
-    "enable": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "logging": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js"
+    "enable": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "logging": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js"
   },
-  "coreMiddleware": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-  "workerStartTimeout": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-  "serverTimeout": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
+  "coreMiddleware": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
   "cluster": {
     "listen": {
-      "path": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-      "port": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-      "hostname": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js"
+      "path": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+      "port": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js"
     }
   },
   "clusterClient": {
-    "maxWaitTime": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js",
-    "responseTimeout": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js"
+    "maxWaitTime": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js"
   },
-  "onClientError": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/config.default.js"
+  "onClientError": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js"
 }

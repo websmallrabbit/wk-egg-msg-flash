@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Application Start",
+    "start": 1550330384100,
+    "end": 1550330384909,
+    "duration": 809,
+    "pid": 19818,
+    "index": 0
+  },
+  {
+    "name": "Load Plugin",
+    "start": 1550330384100,
+    "end": 1550330384102,
+    "duration": 2,
+    "pid": 19818,
+    "index": 1
+  },
+  {
+    "name": "Load Config",
+    "start": 1550330384102,
+    "end": 1550330384105,
+    "duration": 3,
+    "pid": 19818,
+    "index": 2
+  },
+  {
+    "name": "Require(0) config/config.default.js",
+    "start": 1550330384103,
+    "end": 1550330384103,
+    "duration": 0,
+    "pid": 19818,
+    "index": 3
+  },
+  {
+    "name": "Require(1) node_modules/egg-session/config/config.default.js",
+    "start": 1550330384103,
+    "end": 1550330384103,
+    "duration": 0,
+    "pid": 19818,
+    "index": 4
+  },
+  {
+    "name": "Require(2) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/config.default.js",
+    "start": 1550330384103,
+    "end": 1550330384103,
+    "duration": 0,
+    "pid": 19818,
+    "index": 5
+  },
+  {
+    "name": "Require(3) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-jsonp/config/config.default.js",
+    "start": 1550330384103,
+    "end": 1550330384103,
+    "duration": 0,
+    "pid": 19818,
+    "index": 6
+  },
+  {
+    "name": "Require(4) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-onerror/config/config.default.js",
+    "start": 1550330384103,
+    "end": 1550330384103,
+    "duration": 0,
+    "pid": 19818,
+    "index": 7
+  },
+  {
+    "name": "Require(5) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-i18n/config/config.default.js",
+    "start": 1550330384103,
+    "end": 1550330384103,
+    "duration": 0,
+    "pid": 19818,
+    "index": 8
+  },
+  {
+    "name": "Require(6) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-watcher/config/config.default.js",
+    "start": 1550330384103,
+    "end": 1550330384103,
+    "duration": 0,
+    "pid": 19818,
+    "index": 9
+  },
+  {
+    "name": "Require(7) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-schedule/config/config.default.js",
+    "start": 1550330384103,
+    "end": 1550330384103,
+    "duration": 0,
+    "pid": 19818,
+    "index": 10
+  },
+  {
+    "name": "Require(8) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-multipart/config/config.default.js",
+    "start": 1550330384103,
+    "end": 1550330384103,
+    "duration": 0,
+    "pid": 19818,
+    "index": 11
+  },
+  {
+    "name": "Require(9) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-logrotator/config/config.default.js",
+    "start": 1550330384103,
+    "end": 1550330384103,
+    "duration": 0,
+    "pid": 19818,
+    "index": 12
+  },
+  {
+    "name": "Require(10) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-static/config/config.default.js",
+    "start": 1550330384103,
+    "end": 1550330384103,
+    "duration": 0,
+    "pid": 19818,
+    "index": 13
+  },
+  {
+    "name": "Require(11) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-view/config/config.default.js",
+    "start": 1550330384103,
+    "end": 1550330384103,
+    "duration": 0,
+    "pid": 19818,
+    "index": 14
+  },
+  {
+    "name": "Require(12) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/config/config.default.js",
+    "start": 1550330384103,
+    "end": 1550330384103,
+    "duration": 0,
+    "pid": 19818,
+    "index": 15
+  },
+  {
+    "name": "Require(13) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.default.js",
+    "start": 1550330384103,
+    "end": 1550330384103,
+    "duration": 0,
+    "pid": 19818,
+    "index": 16
+  },
+  {
+    "name": "Require(14) config/config.default.js",
+    "start": 1550330384104,
+    "end": 1550330384104,
+    "duration": 0,
+    "pid": 19818,
+    "index": 17
+  },
+  {
+    "name": "Require(15) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-watcher/config/config.unittest.js",
+    "start": 1550330384104,
+    "end": 1550330384104,
+    "duration": 0,
+    "pid": 19818,
+    "index": 18
+  },
+  {
+    "name": "Require(16) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/config.unittest.js",
+    "start": 1550330384104,
+    "end": 1550330384104,
+    "duration": 0,
+    "pid": 19818,
+    "index": 19
+  },
+  {
+    "name": "Load extend/application.js",
+    "start": 1550330384105,
+    "end": 1550330384213,
+    "duration": 108,
+    "pid": 19818,
+    "index": 20
+  },
+  {
+    "name": "Require(17) node_modules/egg-session/app/extend/application.js",
+    "start": 1550330384105,
+    "end": 1550330384186,
+    "duration": 81,
+    "pid": 19818,
+    "index": 21
+  },
+  {
+    "name": "Require(18) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/app/extend/application.js",
+    "start": 1550330384186,
+    "end": 1550330384187,
+    "duration": 1,
+    "pid": 19818,
+    "index": 22
+  },
+  {
+    "name": "Require(19) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-jsonp/app/extend/application.js",
+    "start": 1550330384187,
+    "end": 1550330384189,
+    "duration": 2,
+    "pid": 19818,
+    "index": 23
+  },
+  {
+    "name": "Require(20) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-logrotator/app/extend/application.js",
+    "start": 1550330384189,
+    "end": 1550330384190,
+    "duration": 1,
+    "pid": 19818,
+    "index": 24
+  },
+  {
+    "name": "Require(21) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-view/app/extend/application.js",
+    "start": 1550330384190,
+    "end": 1550330384192,
+    "duration": 2,
+    "pid": 19818,
+    "index": 25
+  },
+  {
+    "name": "Require(22) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-mock/app/extend/application.js",
+    "start": 1550330384192,
+    "end": 1550330384212,
+    "duration": 20,
+    "pid": 19818,
+    "index": 26
+  },
+  {
+    "name": "Load extend/request.js",
+    "start": 1550330384213,
+    "end": 1550330384216,
+    "duration": 3,
+    "pid": 19818,
+    "index": 27
+  },
+  {
+    "name": "Require(23) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/app/extend/request.js",
+    "start": 1550330384214,
+    "end": 1550330384215,
+    "duration": 1,
+    "pid": 19818,
+    "index": 28
+  },
+  {
+    "name": "Load extend/response.js",
+    "start": 1550330384216,
+    "end": 1550330384220,
+    "duration": 4,
+    "pid": 19818,
+    "index": 29
+  },
+  {
+    "name": "Require(24) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/app/extend/response.js",
+    "start": 1550330384216,
+    "end": 1550330384217,
+    "duration": 1,
+    "pid": 19818,
+    "index": 30
+  },
+  {
+    "name": "Load extend/context.js",
+    "start": 1550330384220,
+    "end": 1550330384271,
+    "duration": 51,
+    "pid": 19818,
+    "index": 31
+  },
+  {
+    "name": "Require(25) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/app/extend/context.js",
+    "start": 1550330384220,
+    "end": 1550330384226,
+    "duration": 6,
+    "pid": 19818,
+    "index": 32
+  },
+  {
+    "name": "Require(26) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-jsonp/app/extend/context.js",
+    "start": 1550330384226,
+    "end": 1550330384227,
+    "duration": 1,
+    "pid": 19818,
+    "index": 33
+  },
+  {
+    "name": "Require(27) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-i18n/app/extend/context.js",
+    "start": 1550330384228,
+    "end": 1550330384228,
+    "duration": 0,
+    "pid": 19818,
+    "index": 34
+  },
+  {
+    "name": "Require(28) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-multipart/app/extend/context.js",
+    "start": 1550330384228,
+    "end": 1550330384266,
+    "duration": 38,
+    "pid": 19818,
+    "index": 35
+  },
+  {
+    "name": "Require(29) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-view/app/extend/context.js",
+    "start": 1550330384267,
+    "end": 1550330384268,
+    "duration": 1,
+    "pid": 19818,
+    "index": 36
+  },
+  {
+    "name": "Require(30) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/app/extend/context.js",
+    "start": 1550330384268,
+    "end": 1550330384270,
+    "duration": 2,
+    "pid": 19818,
+    "index": 37
+  },
+  {
+    "name": "Load extend/helper.js",
+    "start": 1550330384271,
+    "end": 1550330384292,
+    "duration": 21,
+    "pid": 19818,
+    "index": 38
+  },
+  {
+    "name": "Require(31) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/app/extend/helper.js",
+    "start": 1550330384271,
+    "end": 1550330384290,
+    "duration": 19,
+    "pid": 19818,
+    "index": 39
+  },
+  {
+    "name": "Require(32) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/app/extend/helper.js",
+    "start": 1550330384291,
+    "end": 1550330384291,
+    "duration": 0,
+    "pid": 19818,
+    "index": 40
+  },
+  {
+    "name": "Load app.js",
+    "start": 1550330384292,
+    "end": 1550330384359,
+    "duration": 67,
+    "pid": 19818,
+    "index": 41
+  },
+  {
+    "name": "Require(33) node_modules/egg-session/app.js",
+    "start": 1550330384292,
+    "end": 1550330384298,
+    "duration": 6,
+    "pid": 19818,
+    "index": 42
+  },
+  {
+    "name": "Require(34) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/app.js",
+    "start": 1550330384298,
+    "end": 1550330384300,
+    "duration": 2,
+    "pid": 19818,
+    "index": 43
+  },
+  {
+    "name": "Require(35) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-onerror/app.js",
+    "start": 1550330384300,
+    "end": 1550330384308,
+    "duration": 8,
+    "pid": 19818,
+    "index": 44
+  },
+  {
+    "name": "Require(36) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-i18n/app.js",
+    "start": 1550330384308,
+    "end": 1550330384314,
+    "duration": 6,
+    "pid": 19818,
+    "index": 45
+  },
+  {
+    "name": "Require(37) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-watcher/app.js",
+    "start": 1550330384314,
+    "end": 1550330384315,
+    "duration": 1,
+    "pid": 19818,
+    "index": 46
+  },
+  {
+    "name": "Require(38) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-schedule/app.js",
+    "start": 1550330384315,
+    "end": 1550330384316,
+    "duration": 1,
+    "pid": 19818,
+    "index": 47
+  },
+  {
+    "name": "Require(39) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-multipart/app.js",
+    "start": 1550330384316,
+    "end": 1550330384318,
+    "duration": 2,
+    "pid": 19818,
+    "index": 48
+  },
+  {
+    "name": "Require(40) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-logrotator/app.js",
+    "start": 1550330384318,
+    "end": 1550330384318,
+    "duration": 0,
+    "pid": 19818,
+    "index": 49
+  },
+  {
+    "name": "Require(41) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-static/app.js",
+    "start": 1550330384318,
+    "end": 1550330384319,
+    "duration": 1,
+    "pid": 19818,
+    "index": 50
+  },
+  {
+    "name": "Require(42) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-mock/app.js",
+    "start": 1550330384319,
+    "end": 1550330384320,
+    "duration": 1,
+    "pid": 19818,
+    "index": 51
+  },
+  {
+    "name": "Require(43) /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/app.js",
+    "start": 1550330384320,
+    "end": 1550330384359,
+    "duration": 39,
+    "pid": 19818,
+    "index": 52
+  },
+  {
+    "name": "Before Start in /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-watcher/lib/init.js:15:14",
+    "start": 1550330384364,
+    "end": 1550330384908,
+    "duration": 544,
+    "pid": 19818,
+    "index": 53
+  },
+  {
+    "name": "Load Service",
+    "start": 1550330384369,
+    "end": 1550330384371,
+    "duration": 2,
+    "pid": 19818,
+    "index": 54
+  },
+  {
+    "name": "Load \"service\" to Context",
+    "start": 1550330384369,
+    "end": 1550330384371,
+    "duration": 2,
+    "pid": 19818,
+    "index": 55
+  },
+  {
+    "name": "Load Middleware",
+    "start": 1550330384371,
+    "end": 1550330384884,
+    "duration": 513,
+    "pid": 19818,
+    "index": 56
+  },
+  {
+    "name": "Load \"middlewares\" to Application",
+    "start": 1550330384371,
+    "end": 1550330384875,
+    "duration": 504,
+    "pid": 19818,
+    "index": 57
+  },
+  {
+    "name": "Load Controller",
+    "start": 1550330384884,
+    "end": 1550330384887,
+    "duration": 3,
+    "pid": 19818,
+    "index": 58
+  },
+  {
+    "name": "Load \"controller\" to Application",
+    "start": 1550330384885,
+    "end": 1550330384887,
+    "duration": 2,
+    "pid": 19818,
+    "index": 59
+  },
+  {
+    "name": "Load Router",
+    "start": 1550330384887,
+    "end": 1550330384895,
+    "duration": 8,
+    "pid": 19818,
+    "index": 60
+  },
+  {
+    "name": "Require(44) app/router.js",
+    "start": 1550330384887,
+    "end": 1550330384893,
+    "duration": 6,
+    "pid": 19818,
+    "index": 61
+  },
+  {
+    "name": "Before Start in /Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-core/lib/egg.js:303:10",
+    "start": 1550330384894,
+    "end": 1550330384899,
+    "duration": 5,
+    "pid": 19818,
+    "index": 62
+  }
+]

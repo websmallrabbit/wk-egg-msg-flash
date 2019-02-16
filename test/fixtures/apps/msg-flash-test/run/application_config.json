@@ -86,27 +86,27 @@
     "onerror": {
       "errorPageUrl": "",
       "appErrorFilter": null,
-      "templatePath": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-onerror/lib/onerror_page.mustache"
+      "templatePath": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-onerror/lib/onerror_page.mustache"
     },
     "i18n": {
       "defaultLocale": "en_US",
       "dirs": [
-        "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/test/fixtures/apps/msg-flash-test/node_modules/egg-session/config/locales",
-        "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security/config/locales",
-        "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-jsonp/config/locales",
-        "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-onerror/config/locales",
-        "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-i18n/config/locales",
-        "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-watcher/config/locales",
-        "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-schedule/config/locales",
-        "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-multipart/config/locales",
-        "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-logrotator/config/locales",
-        "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-static/config/locales",
-        "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-view/config/locales",
-        "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-mock/config/locales",
-        "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/config/locales",
-        "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/locales",
-        "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-mock/lib/tmp/config/locales",
-        "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/test/fixtures/apps/msg-flash-test/config/locales"
+        "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/test/fixtures/apps/msg-flash-test/node_modules/egg-session/config/locales",
+        "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security/config/locales",
+        "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-jsonp/config/locales",
+        "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-onerror/config/locales",
+        "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-i18n/config/locales",
+        "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-watcher/config/locales",
+        "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-schedule/config/locales",
+        "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-multipart/config/locales",
+        "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-logrotator/config/locales",
+        "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-static/config/locales",
+        "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-view/config/locales",
+        "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-mock/config/locales",
+        "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/config/locales",
+        "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/locales",
+        "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-mock/lib/tmp/config/locales",
+        "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/test/fixtures/apps/msg-flash-test/config/locales"
       ],
       "queryField": "locale",
       "cookieField": "locale",
@@ -116,14 +116,14 @@
     "watcher": {
       "type": "development",
       "eventSources": {
-        "default": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-watcher/lib/event-sources/default",
-        "development": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-watcher/lib/event-sources/development"
+        "default": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-watcher/lib/event-sources/default",
+        "development": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-watcher/lib/event-sources/development"
       }
     },
     "customLogger": {
       "scheduleLogger": {
         "consoleLevel": "NONE",
-        "file": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/test/fixtures/apps/msg-flash-test/logs/msg-flash-test/egg-schedule.log"
+        "file": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/test/fixtures/apps/msg-flash-test/logs/msg-flash-test/egg-schedule.log"
       }
     },
     "schedule": {
@@ -156,14 +156,14 @@
     },
     "static": {
       "prefix": "/public/",
-      "dir": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/test/fixtures/apps/msg-flash-test/app/public",
+      "dir": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/test/fixtures/apps/msg-flash-test/app/public",
       "dynamic": true,
       "preload": false,
       "buffer": false,
       "maxFiles": 1000
     },
     "view": {
-      "root": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/test/fixtures/apps/msg-flash-test/app/view",
+      "root": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/test/fixtures/apps/msg-flash-test/app/view",
       "cache": true,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
@@ -188,9 +188,9 @@
         "egg-session": "^3.1.0"
       }
     },
-    "baseDir": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/test/fixtures/apps/msg-flash-test",
+    "baseDir": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/test/fixtures/apps/msg-flash-test",
     "HOME": "/Users/hankeshidai",
-    "rundir": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/test/fixtures/apps/msg-flash-test/run",
+    "rundir": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/test/fixtures/apps/msg-flash-test/run",
     "dump": {
       "ignore": "<Set>"
     },
@@ -221,7 +221,7 @@
       "returnRawBody": true
     },
     "logger": {
-      "dir": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/test/fixtures/apps/msg-flash-test/logs/msg-flash-test",
+      "dir": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/test/fixtures/apps/msg-flash-test/logs/msg-flash-test",
       "encoding": "utf8",
       "env": "unittest",
       "level": "INFO",
@@ -312,8 +312,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/test/fixtures/apps/msg-flash-test/node_modules/egg-session",
+      "from": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/plugin.js",
+      "path": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/test/fixtures/apps/msg-flash-test/node_modules/egg-session",
       "version": "3.1.0"
     },
     "security": {
@@ -325,8 +325,8 @@
         "session"
       ],
       "env": [],
-      "from": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-security",
+      "from": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/plugin.js",
+      "path": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-security",
       "version": "2.4.2"
     },
     "jsonp": {
@@ -338,8 +338,8 @@
         "security"
       ],
       "env": [],
-      "from": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-jsonp",
+      "from": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/plugin.js",
+      "path": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-jsonp",
       "version": "2.0.0"
     },
     "onerror": {
@@ -351,8 +351,8 @@
         "jsonp"
       ],
       "env": [],
-      "from": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-onerror",
+      "from": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/plugin.js",
+      "path": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-onerror",
       "version": "2.1.0"
     },
     "i18n": {
@@ -362,8 +362,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-i18n",
+      "from": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/plugin.js",
+      "path": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-i18n",
       "version": "2.0.0"
     },
     "watcher": {
@@ -373,8 +373,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-watcher",
+      "from": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/plugin.js",
+      "path": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-watcher",
       "version": "3.1.0"
     },
     "schedule": {
@@ -384,8 +384,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-schedule",
+      "from": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/plugin.js",
+      "path": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-schedule",
       "version": "3.6.0"
     },
     "multipart": {
@@ -397,8 +397,8 @@
         "schedule"
       ],
       "env": [],
-      "from": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-multipart",
+      "from": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/plugin.js",
+      "path": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-multipart",
       "version": "2.4.0"
     },
     "logrotator": {
@@ -410,8 +410,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-logrotator",
+      "from": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/plugin.js",
+      "path": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-logrotator",
       "version": "3.0.5"
     },
     "static": {
@@ -421,8 +421,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-static",
+      "from": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/plugin.js",
+      "path": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-static",
       "version": "2.2.0"
     },
     "view": {
@@ -432,13 +432,13 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg/config/plugin.js",
-      "path": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-view",
+      "from": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg/config/plugin.js",
+      "path": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-view",
       "version": "2.1.2"
     },
     "egg-mock": {
       "enable": true,
-      "path": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/node_modules/egg-mock",
+      "path": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/node_modules/egg-mock",
       "name": "egg-mock",
       "dependencies": [],
       "optionalDependencies": [],
@@ -447,7 +447,7 @@
     },
     "flash": {
       "enable": true,
-      "path": "/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash",
+      "path": "/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash",
       "name": "flash",
       "dependencies": [
         "session"

@@ -1,4 +1,4 @@
-2019-02-16 22:51:27,518 INFO 17199 [egg:logger] init all loggers with options: {"dir":"/Users/hankeshidai/Documents/study/egg/egg-msg-flash/egg-msg-flash/test/fixtures/apps/msg-flash-test/logs/msg-flash-test","encoding":"utf8","env":"unittest","level":"INFO","consoleLevel":"WARN","disableConsoleAfterReady":false,"outputJSON":false,"buffer":false,"appLogName":"msg-flash-test-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"agent"}
-2019-02-16 22:51:27,592 INFO 17199 [egg:core] dump config after load, 3ms
-2019-02-16 22:51:27,633 INFO 17199 [egg-watcher:agent] watcher start success
-2019-02-16 22:51:27,636 INFO 17199 [egg:core] dump config after ready, 2ms
+2019-02-16 23:39:03,127 INFO 20836 [egg:logger] init all loggers with options: {"dir":"/Users/hankeshidai/Documents/study/egg/wk-egg-msg-flash/test/fixtures/apps/msg-flash-test/logs/msg-flash-test","encoding":"utf8","env":"unittest","level":"INFO","consoleLevel":"WARN","disableConsoleAfterReady":false,"outputJSON":false,"buffer":false,"appLogName":"msg-flash-test-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"agent"}
+2019-02-16 23:39:03,203 INFO 20836 [egg:core] dump config after load, 3ms
+2019-02-16 23:39:03,245 INFO 20836 [egg-watcher:agent] watcher start success
+2019-02-16 23:39:03,272 INFO 20836 [egg:core] dump config after ready, 3ms

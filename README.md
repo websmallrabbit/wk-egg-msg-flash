@@ -27,7 +27,7 @@ Description here.
 ## Install
 
 ```bash
-$ npm i egg-msg-flash --save
+$ npm i wk-egg-msg-flash --save
 ```
 
 ## Usage
@@ -36,7 +36,7 @@ $ npm i egg-msg-flash --save
 // {app_root}/config/plugin.js
 exports.msgFlash = {
   enable: true,
-  package: 'egg-msg-flash',
+  package: 'wk-egg-msg-flash',
 };
 ``
 `
